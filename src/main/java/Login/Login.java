@@ -8,6 +8,7 @@ package Login;
  *
  * @author Student
  */
+//declaring variables
 
 import java.util.regex.Pattern;
 
